@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Shantell+Sans:wght@300&display=swap');
+
+.calci_div{
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 8px #888888;
+    margin: 50px auto;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+}
+.exp_input{
+    text-align: right;
+    height: 60px;
+    font-size: 22px !important;
+}
+.result_input{
+    text-align: right;
+    font-size: 15px !important;
+}
+.btns{
+    width: 100%; height: 100%;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.btn_row{
+
+}
+.btn{
+    height: 60px; width: 60px;
+    margin: 1px;
+    border-radius: 50%;
+}
