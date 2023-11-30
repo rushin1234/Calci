@@ -11,9 +11,7 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com)
-
-![Calculator Screenshot](/path/to/screenshot.png)
+[Live Demo]([https://your-demo-link.com](https://6568421376ceac7857beb1db--grand-chaja-77ff48.netlify.app/))
 
 ## Installation
 
