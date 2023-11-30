@@ -11,12 +11,12 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Live Demo]([https://your-demo-link.com](https://6568421376ceac7857beb1db--grand-chaja-77ff48.netlify.app/))
+[Live Demo](https://6568421376ceac7857beb1db--grand-chaja-77ff48.netlify.app/)
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/rushin1234/Calci.git
+https://github.com/rushin1234/Calci.git
 
